@@ -1,0 +1,16 @@
+header {
+    color:white;
+    font-weight:bold;
+    font-size:30px;
+    display:flex;
+    justify-content: space-between;
+    background:#ababab;
+    height:200px;
+    padding: 60px 50px;
+    box-sizing: border-box;
+}
+
+.header_item {
+    width:250px;
+    text-align: center;
+}

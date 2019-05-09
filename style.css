@@ -42,7 +42,7 @@ header {
     font-weight:normal;
 }
 
-.vertical_align p{
+.vertical_align p,.vertical_align h4{
     margin-top: 300px;
 }
 .header_item {
